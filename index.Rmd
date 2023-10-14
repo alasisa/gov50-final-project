@@ -7,6 +7,6 @@ output:
     self_contained: false
 ---
 
-## Milestone 2
+## Milestone 2 
 How has COVID-19 changed people’s views and political trust in the government and their performance? In this study, I plan to explore how COVID-19 has affected the political views and trust in the government. I hypothesize that cities or countries where the death toll and cases were the highest had the least trust in their government and didn’t follow the regulations. I think that if people didn’t agree with the government’s regulations and rules, they wouldn’t follow them and then COVID-19 would spread more throughout that country which would cause the death tolls to rise and cases to increase. If the government didn’t implement effective rules and saw that cases and death tolls were rising but still decided to do nothing, then people would lose their trust in the government and change their political views. If societies have greater trust in their government and believe that they are doing what is in the best interest of their society, then they will follow the rules and regulations put forth by the government and the cases and death tolls from COVID-19 will decrease or not exist at all. If I see a positive correlation between trust in the government and less COVID-19 cases then that would provide support for my hypothesis. If I see that there is a correlation between no trust in the government and decreasing cases in COVID-19 that would disprove my hypothesis
 
