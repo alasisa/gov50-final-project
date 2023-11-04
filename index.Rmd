@@ -15,7 +15,6 @@ library(ggplot2)
 ```
 ```{r}
 Covid19 <- read_csv("COVID-19_Daily_Counts_of_Cases__Hospitalizations__and_Deaths.csv")
-View(Covid19)
 ```
 ## Milestone 3 
 ```{r}
