@@ -24,7 +24,23 @@ ggplot(data = Covid19,
   geom_point()
 ```
 
+## Milestone 4
+```{r}
+ggplot(data = Covid19, 
+       mapping = aes(x = HOSPITALIZED_COUNT,
+                     y = DEATH_COUNT)) +
+  geom_point() +
+  geom_smooth(method = "loess", se = FALSE) +
+  scale_x_log10() +
+  labs(
+    x = "Hospitalized Count",
+    y = "Death Count", 
+    title = "Hospitalized and Death Count"
+  )
+```
 
+
+## In this visualization it compares the Hospitalized count of COVID-19 compared to the death count from COVID-19. This shows an positive exponential growth between both the Hospitalized and death counts from COVID-19. 
 
 
 ## Milestone 2 
