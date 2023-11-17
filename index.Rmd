@@ -40,7 +40,7 @@ ggplot(data = Covid19,
 ```
 
 
-## In this visualization it compares the Hospitalized count of COVID-19 compared to the death count from COVID-19. This shows an positive exponential growth between both the Hospitalized and death counts from COVID-19. 
+## In this visualization it compares the Hospitalized count of COVID-19 compared to the death count from COVID-19. This shows an positive growth between both the Hospitalized and death counts from COVID-19. I think that if my data set had time as a variable that could help me see how the death or hospitalized counts increased over time and in which certain areas so I could compare them to each other. 
 
 
 ## Milestone 2 
